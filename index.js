@@ -4,4 +4,3 @@ shout (string) {
 whisper (string) {
   return string.toLowerCase
 }
-
