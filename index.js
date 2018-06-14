@@ -4,3 +4,6 @@ shout (string) {
 whisper (string) {
   return string.toLowerCase
 }
+logShout (string) {
+  console.log("HELLO!")
+}
